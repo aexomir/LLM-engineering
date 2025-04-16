@@ -1,2 +1,4 @@
 .gradio/
 .env
+*.pkl
+*/__pycache__
