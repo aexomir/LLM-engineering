@@ -2,4 +2,9 @@
 .env
 *.pkl
 */__pycache__
+*/*/__pycache__
 *.jsonl
+.DS_Store
+*.bin
+*.pickle
+*.sqlite3
